@@ -1,7 +1,8 @@
 - 👋 Hi, I’m William Oliveira
 - 👀 I’m interested in answer companies' needs.
-- 🌱 I got trained in Python and I’m currently learning MS PowerBI
-- 💞️ I’m looking to collaborate on Python projects.
+- 🌱 I got trained in Python and MS PowerBI
+- 💞️ I’m looking to collaborate on Python and BI projects.
+- Next training is related to Data Science
 - 📫 How to reach me: wioliveira@gmail.com
 
 <!---
