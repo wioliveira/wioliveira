@@ -1,7 +1,7 @@
 - 👋 Hi, I’m William Oliveira
-- 👀 I’m interested in answer companies' needs.
-- 💞️ I’m looking to collaborate on Python, DotNet, Angular and PowerBI projects.
-- Next training is related to Data Science
+- 👀 I’m interested in answering companies' needs.
+- 💞️ I’m looking to collaborate on Python, DotNet, Angular, and Power Platforms projects.
+- My next training is related to Data Science
 - 📫 How to reach me: https://www.williamoliveira.dev/
 
 <!---
